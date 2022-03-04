@@ -8,5 +8,6 @@ public class HelloGit {
         System.out.println("master");
         System.out.println("fox");
         System.out.println("push gitHub");
+        System.out.println("pull gitHub");
     }
 }
