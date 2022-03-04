@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("fox");
         System.out.println("push gitHub");
         System.out.println("pull gitHub");
+        System.out.println("clone push to gitHub");
     }
 }
